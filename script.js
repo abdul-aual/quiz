@@ -188,13 +188,13 @@ const questions =
     ]
     },
     {
-        questions: "He loves someone.Do you believe it?",
+        questions: "He has special one in secret.Do you believe it?",
     answers:
     [
-        {text: "Yes!", correct:true},
+        {text: "Yes!", correct:false},
         {text: "No!", correct:false},
         {text: "May-be!", correct:false},
-        {text: "No-emotion", correct:false},
+        {text: "No-emotion", correct:true},
     ]
     },
     {
